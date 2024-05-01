@@ -189,7 +189,7 @@ body {
    
     .container {
         height: 100%;
-        width: 60%;
+        width: 80%;
         flex-direction: column;
         margin: 0; /* Reset margin */
         padding: 0; 
