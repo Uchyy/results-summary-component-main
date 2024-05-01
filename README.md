@@ -14,9 +14,12 @@ Users should be able to:
 
 ### Screenshot
 
-Add a screenshot of your solution.
+Desktop View:
 
+(https://github.com/Uchyy/results-summary-component-main/design/desktop-solution.png)
 
+Mobile View:
+(https://github.com/Uchyy/results-summary-component-main/design/mobile-solution.png)
 
 ### Links
 
@@ -57,8 +60,8 @@ In future projects, I plan to focus on:
 
 ## Author
 
-- GitHub - [Your GitHub profile](https://github.com/yourusername)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [Your GitHub profile](https://github.com/Uchyy)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Uchyy)
 
 ## Acknowledgments
 
